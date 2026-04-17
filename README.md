@@ -6,12 +6,12 @@ Repositório dedicado aos projetos desenvolvidos durante o treinamento intensivo
 
 Neste repositório, você encontrará soluções de Business Intelligence aplicadas a dois setores estratégicos:
 
-### 1. [Dashboard de Gestão Financeira](screenshots/Financeiro.png)
+### 1. [Dashboard de Gestão Financeira](imagens/Financeiro.png)
 * **Setor:** Finanças / Controladoria.
 * **Destaque:** Monitoramento de fluxo de caixa anual, performance por unidade (Matriz e Filiais) e análise de perfil de pagamento de clientes.
 * **Tecnologias:** Power Query (ETL), DAX e Design focado em KPIs financeiros.
 
-### 2. [Dashboard de Logística e Transportes](screenshots/Logística.png)
+### 2. [Dashboard de Logística e Transportes](imagens/Logística.png)
 * **Setor:** Logística / Supply Chain.
 * **Destaque:** Controle de nível de serviço (OTD - On Time Delivery), análise de causas raízes de desvios e uso de **Smart Narratives (IA)** para interpretação de dados.
 * **Tecnologias:** Integração de fontes mistas (XLSX e TXT), Tooltips Visuais e Narrativas Inteligentes.
