@@ -16,7 +16,7 @@ Neste repositório, você encontrará soluções de Business Intelligence aplica
 * **Destaque:** Controle de nível de serviço (OTD - On Time Delivery), análise de causas raízes de desvios e uso de **Smart Narratives (IA)** para interpretação de dados.
 * **Tecnologias:** Integração de fontes mistas (XLSX e TXT), Tooltips Visuais e Narrativas Inteligentes.
 
-### 3. [Produtividade e Boas Práticas com IA](./Produtividade-e-IA)
+### 3. [Produtividade e Boas Práticas com IA]
 * **Foco:** Metodologias ágeis e uso de IAs generativas como copiloto.
 * **Destaques:** Engenharia de prompts para DAX, automação de documentação e análise ética de dados.
 
